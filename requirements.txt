@@ -1,0 +1,12 @@
+fastapi==0.135.1
+uvicorn==0.40.0
+sqlalchemy==2.0.48
+pydantic-settings==2.13.1
+mcp==2.3.0
+httpx==0.28.1
+python-multipart==0.0.22
+Pillow==12.2.0
+numpy==2.4.3
+faiss-cpu==1.13.2; platform_system != "Windows"
+pytest==9.0.2
+itsdangerous==2.2.0

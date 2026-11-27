@@ -1,0 +1,4 @@
+2026-11-26 11:22:21,809 INFO httpx HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-11-26 11:22:22,119 INFO httpx HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-11-26 12:41:15,727 INFO httpx HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-11-26 12:47:03,027 INFO httpx HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
